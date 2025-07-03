@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "German Dorta",
+    "label": "Senior Analyst Autoweb",
+    "image": "/me.webp",
+    "email": "dorta.german.97@gmail.com",
+    "phone": "+598 94639969",
+    "url": "https://midu.dev",
+    "summary": "2 Años de experiencia liderando el equipo de Autoweb Provisioning. Gran interes por el Desarrollo Web, los proyectos me motivan a seguir aprendiendo y mejorando mis habilidades. Me gusta trabajar en equipo y sacarme todas las dudas que pueda tener. Me considero una persona proactiva, con ganas de aprender y aportar al equipo.",
+    "location": {
+      "address": "",
+      "postalCode": "1100",
+      "city": "Montevideo",
+      "countryCode": "UY",
+      "region": "Uruguay"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "german-dorta",
+        "url": "https://www.linkedin.com/in/german-dorta/"
+      },
+      {
+        "network": "GitHub",
+        "username": "gedodev",
+        "url": "https://github.com/gedodev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Asignet",
+      "position": "Autoweb Provisioning Team Lead",
+      "url": "https://www.linkedin.com/company/asignet/posts/?feedView=all",
+      "startDate": "2021-05-14",
+      "endDate": null,
+      "summary": "Mantenimiento y desarrollo de scripts que automatizan procesos webs, liderando un equipo de 3 personas. Implementación de nuevas funcionalidades y mejoras en la plataforma. Coordinación con otros equipos y clientes para asegurar la integración y funcionamiento correcto de los servicios.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Autodidacta",
+    "url": null,
+    "area": "Desarrollo Web",
+    "studyType": null,
+    "startDate": "2019-07-01",
+    "endDate": null,
+    "score": null,
+    "courses": null
+  },{
+    "institution": "CoderHouse",
+    "url": null,
+    "area": "Desarrollo Web con React",
+    "studyType": null,
+    "startDate": "2022-04-01",
+    "endDate": "2022-12-01",
+    "score": null,
+    "courses": null
+  }],
+  "awards": null,
+  "certificates": [{
+    "name": "Curso Gratis de Programacion Básica",
+    "date": "2019-10-10",
+    "issuer": "Platzi",
+    "url": "https://platzi.com/p/Gedo/curso/1050-course/diploma/detalle/"
+  },
+  {
+    "name": "Desarrollo Web",
+    "date": "2020-12-15",
+    "issuer": "Jovenes a Programar",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6767054823209615361//"
+  }],
+  "publications":null,
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Basico",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Theatre",
+    "keywords": [
+      "Plays",
+      "Actor"
+    ]
+  }],
+  "references": [{
+    "name": "Sebastian Bertarini",
+    "reference": null
+  },
+  {
+    "name": "Fabiana Piaggio",
+    "reference": null
+  }],
+  "projects": [
+    {
+      "name": "Veganico",
+      "isActive": true,
+      "description": "Pagina sobre emprendimiento Veganico, donde puedes encontrar sus productos e informacion sobre la empresa",
+      "highlights": [
+        "JS",
+        "CSS",
+        "SASS"
+      ],
+      "url": "https://veganico.vercel.app/"
+    },
+    {
+      "name": "mouse pacman",
+      "isActive": true,
+      "description": "Pacman que se mueve con el mouse usando react",
+      "highlights": [
+        "React",
+        "CSS",
+        "JavaScript",
+        "UseEffect",
+        "UseState"
+      ],
+      "url": "https://mouse-pacman.vercel.app/"
+    },
+    {
+      "name": "Random Kittens",
+      "isActive": true,
+      "description": "Llamado a API que te trae datos randoms, y usa esas 3 primeras para llamar a otra api y mostrar un meme de un gato",
+      "highlights": [
+        "Gatos",
+        "React",
+        "Custom Hooks"
+      ],
+      "url": "https://random-kittens-nine.vercel.app/"
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "isActive": true,
+      "description": "Tic-Tac-Toe con confetti y marcador de turnos",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://tic-tac-toe-six-umber-27.vercel.app/"
+    }
+  ]
+}
