@@ -2,7 +2,7 @@
   "basics": {
     "name": "German Dorta",
     "label": "Senior Analyst Autoweb",
-    "image": "/me.webp",
+    "image": "./IA-Perfil.png",
     "email": "dorta.german.97@gmail.com",
     "phone": "+598 94639969",
     "url": "https://midu.dev",
@@ -183,7 +183,18 @@
       "url": "https://veganico.vercel.app/"
     },
     {
-      "name": "mouse pacman",
+      "name": "Calendar Aguada days",
+      "isActive": true,
+      "description": "Te confirma si completas el 60% de los dias en el mes concurridos a la oficina",
+      "highlights": [
+        "JS",
+        "CSS",
+        "new Date()"
+      ],
+      "url": "https://calendar-0-60.vercel.app/"
+    },
+    {
+      "name": "Mouse Pacman",
       "isActive": true,
       "description": "Pacman que se mueve con el mouse usando react",
       "highlights": [
@@ -202,7 +213,8 @@
       "highlights": [
         "Gatos",
         "React",
-        "Custom Hooks"
+        "Custom Hooks",
+        "Study"
       ],
       "url": "https://random-kittens-nine.vercel.app/"
     },
@@ -211,8 +223,8 @@
       "isActive": true,
       "description": "Tic-Tac-Toe con confetti y marcador de turnos",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "React",
+        "Study"
       ],
       "url": "https://tic-tac-toe-six-umber-27.vercel.app/"
     }
