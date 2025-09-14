@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "German Dorta",
-    "label": "Senior Analyst Autoweb",
+    "label": "RPA Team Lead",
     "image": "./IA-Perfil.png",
     "email": "dorta.german.97@gmail.com",
     "phone": "+598 94639969",
     "url": "https://midu.dev",
-    "summary": "2 years of experience leading the Autoweb Provisioning team. Strong interest in web development; projects motivate me to keep learning and improving my skills. I enjoy working on team and am not afraid to ask questions when something is unclear. I consider myself a proactive person, eager to improve and contribute to the team, while continuously improving both my technical and soft skills.\n\nReference: Sebastián Bertarini (Area Leader)",
+    "summary": "1 Year of experience leading the ''RPA Provisioning Team''. Strong interest in web development; projects motivate me to keep learning and improving my skills. I enjoy working on team and don’t hesitate to ask questions when something is unclear. I consider myself a proactive person, eager to improve and contribute to the team, while continuously improving both my technical and soft skills.\n\nReference: Sebastián Bertarini (Area Leader)",
     "location": {
       "address": "",
       "postalCode": "1100",
@@ -32,19 +32,30 @@
       "name": "Asignet",
       "position": "RPA Provisioning Team Lead",
       "url": "https://www.linkedin.com/company/asignet/posts/?feedView=all",
-      "startDate": "2024-01-02",
+      "startDate": "2025-01-01",
       "endDate": null,
-      "summary": "In charge of leading the RPA Provisioning Team on Uruguay. Responsible for the development and maintenance of scripts that automate web processes and the comunication with the other areas of the company. Also in charge of the training and onboarding of new members of the teams and making the documentation of the processes.",
+      "summary": "In charge of leading the RPA Provisioning Team. Responsible for the development and maintenance of scripts that automate web processes and the comunication with the other areas of the company. Also in charge of the training and onboarding of new members of the teams and making the documentation of the processes.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Asignet",
-      "position": "RPA Provisioning Senior Analyst",
+      "position": "RPA Provisioning Senior",
       "url": "https://www.linkedin.com/company/asignet/posts/?feedView=all",
-      "startDate": "2021-05-14",
-      "endDate": "2024-01-01",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Develop and maintenance of scripts that automate web processes. Communication with clients to understand the issues and requirements. The robots configuration to make it works.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Asignet",
+      "position": "RPA Provisioning Junior",
+      "url": "https://www.linkedin.com/company/asignet/posts/?feedView=all",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
       "summary": "Develop and maintenance of scripts that automate web processes.",
       "highlights": [
         "Started the company"
@@ -81,7 +92,7 @@
     "name": "Web Development",
     "date": "2020-12-15",
     "issuer": "Jovenes a Programar",
-    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6767054823209615361//"
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6767054823209615361"
   }],
   "publications":null,
   "skills": [
